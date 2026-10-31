@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **clorton/clorton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi, I'm Christopher ##
+
+I'm a software engineer who enjoys designing and building efficient software, particularly when performance, parallel processing, or large-scale computation are involved.
+
+Over the past 30 years, I've worked on everything from real-time operating systems and compilers to GPU-accelerated simulations and large-scale scientific computing platforms.
+
+I particularly enjoy learning new technical domains, understanding their computational challenges, and developing practical, high-performance solutions.
+
